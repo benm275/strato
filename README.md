@@ -1,0 +1,2 @@
+# strato
+my nextcloud dev 
